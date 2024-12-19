@@ -1,5 +1,5 @@
 # Odeuropa Text Nosebook: Textual Smell Trend Analyser
-This repository contains the source code of the Odeuropa Text Nosebook: Textual Smell Trend Analyser. The nosebook is available as a interactive notebook on [Google Colab](https://drive.google.com/file/d/1spHM3qFtkuQDoIzQ3ZA94BILvYgGm_Ud/view?usp=sharing). 
+This repository contains the source code of the Odeuropa Text Nosebook: Textual Smell Trend Analyser. The nosebook is available as a interactive notebook on [Google Colab](https://colab.research.google.com/drive/1spHM3qFtkuQDoIzQ3ZA94BILvYgGm_Ud). 
 
 ## Funding acknowledgement
 
